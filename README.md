@@ -10,10 +10,7 @@ I am a fullstack developer with expertise in React JS, Tailwind and Node.js. I'v
 * ⚛️ React / Node. js / Express / Mongo DB
 * 💻 Javascript | HTML | CSS | Tailwind | Material UI
  
-
-
-- 🌱 I’m currently learning MERN Stack 
-- 💬 Ask me about MERN Stack 
+- 💬 Ask me about Web Development 
 - 📫 How to reach me: adityasrivastava1714@gmail.com 
 
 
