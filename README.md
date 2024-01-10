@@ -7,8 +7,8 @@
 I am a fullstack developer with expertise in React JS, Tailwind and Node.js. I've embarked on a journey of Building, Learning and exploring new tech stacks.
 
 ## Skills and Experience
-* ⚛️ React / Node. js
-* 💻 Javascript | HTML | CSS
+* ⚛️ React / Node. js / Express / Mongo DB
+* 💻 Javascript | HTML | CSS | Tailwind | Material UI
  
 
 
