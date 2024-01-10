@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Aditya Kumar Srivastava
-#### Web Developer
+
 ![Web Developer](https://img.freepik.com/premium-photo/laptop-concrete-floor-with-plant-top-view-realistic-3d-rendering_626958-135.jpg?w=1060)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
