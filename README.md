@@ -4,7 +4,7 @@
 **`Digital craftsman(Developer/Designer)`**
 <br />
 <br />
-Building, Learning and exploring new tech stacks.
+I am a fullstack developer with expertise in React JS, Tailwind and Node.js. I've embarked on a journey of Building, Learning and exploring new tech stacks.
 
 ## Skills and Experience
 * ⚛️ React / Node. js
