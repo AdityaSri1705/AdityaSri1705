@@ -1,15 +1,17 @@
-### Hi there 👋, I am Aditya Kumar Srivastava
-
 ![Web Developer](https://img.freepik.com/premium-photo/laptop-concrete-floor-with-plant-top-view-realistic-3d-rendering_626958-135.jpg?w=1060)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+# Aditya Kumar Srivastava
+**`Digital craftsman(Developer/Designer)`**
+<br />
+<br />
+Building, Learning and exploring new tech stacks.
 
-##Skills and Experience:
-* ⚛️ React
+## Skills and Experience
+* ⚛️ React / Node. js
 * 💻 Javascript | HTML | CSS
  
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning MERN Stack 
 - 💬 Ask me about MERN Stack 
 - 📫 How to reach me: adityasrivastava1714@gmail.com 
